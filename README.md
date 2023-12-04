@@ -1,6 +1,6 @@
 # Timer App
 
-<img src="timerApp.png" alt="Screenshot" width="500">
+<img src="timerApp.PNG" alt="Screenshot" width="500">
 
 ## Project Overview
 This project implements a simple timer using HTML, CSS, and JavaScript. The timer includes basic functionalities such as start, pause, and reset, providing a user-friendly interface.
